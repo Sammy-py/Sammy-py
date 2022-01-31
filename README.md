@@ -18,7 +18,38 @@
 <br />
 <br />
 
+### Tech I Use
 
+
+<img height="30" width="30" src = "https://miro.medium.com/max/691/1*VSQ0XEywxSgZBwW05GsZtw.png" align ="left" />
+
+<img height="30" width="30" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-pkZLfV7FbW_74u__gpfD3Z3OLQWAwLUcN8ckbFNvQcsZmlRyr55k42HOEmBJ8t_gWpk&usqp=CAU" align ="left" />
+
+
+<img height="30" width="30" src = "https://3.bp.blogspot.com/-yvrV6MUueGg/ToICp0YIDPI/AAAAAAAAADg/SYKg4dWpyC43AAfrDwBTR0VYmYT0QshEgCPcBGAYYCw/s1600/OpenCV_Logo.png" align ="left"/>
+
+<img height="30" width="30" src = "https://static.javatpoint.com/tutorial/keras/images/keras.png" align ="left" />
+
+<img height="30" width="30" src = "https://fullfreecracked.com/wp-content/uploads/2019/03/Arduino-1.8.9-Crack-Mac-With-Serial-Key-Free-Download.jpg" align ="left" />
+
+<img height="30" width="30" src = "https://www.3cx.de/wp-content/uploads/2019/05/raspberry-pi.jpg" align ="left" />
+
+
+<img height="30" width="30" src = "https://easyeda.com/images/easyeda-thumbnail.png?id=d5ed1fe5930602975df1" align ="left" />
+
+
+<br />
+<br />
+
+
+
+<br />
+<br />
+
+<details>
+<summary> :bulb: Github Stats </summary>
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Sammy-py&layout=compact">
+<details>
 
 
 
