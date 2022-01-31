@@ -3,4 +3,4 @@
 ## Hi there :wave:   <img src= "https://komarev.com/ghpvc/?username=Sammy-py" align ="right">
 ### I'm Sammy. I love doing different projects. :blush:
 
-<font color="blue"> R&D | Artifical Intelligence | Image Prosessing | Embedded Systems</font>
+<font color="blue"> R&D | Artifical Intelligence | Image Prosessing | Embedded Systems | PCB Design</font>
