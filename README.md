@@ -16,10 +16,8 @@
 [<img height="18" width="18" src="https://unpkg.com/simple-icons@v6/icons/googledrive.svg" align ="left" />][cv]
 
 <br />
-<br />
 
 ### **Tech I Use**
-
 
 <img height="30" width="30" src = "https://miro.medium.com/max/691/1*VSQ0XEywxSgZBwW05GsZtw.png" align ="left" />
 
