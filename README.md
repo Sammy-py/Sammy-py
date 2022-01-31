@@ -17,3 +17,32 @@
 
 <br />
 <br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[youtube]: https://www.youtube.com/channel/UCEKHyJ-_v6T46iRXdM2m33A
+[Linkedin]: https://www.linkedin.com/in/sami-ozlu-38k23e01a/
+[instagram]: https://www.instagram.com/sami.ozlu/?hl=en
+[cv]: https://drive.google.com/drive/folders/1cYoTTUIw6vVH3W2JiO8Tyn2q1fKIhIeb?usp=sharing
