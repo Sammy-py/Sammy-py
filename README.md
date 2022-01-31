@@ -1,4 +1,4 @@
-<img src = "https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" align="right" width="200" height="200">
+<img src = "https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" align="right" width="300" height="300">
 
 ## Hi there :wave:   <img src= "https://komarev.com/ghpvc/?username=Sammy-py" align ="right">
 ### I'm Sammy. I love doing different projects. :blush:
@@ -18,7 +18,7 @@
 <br />
 <br />
 
-### Tech I Use
+### **Tech I Use**
 
 
 <img height="30" width="30" src = "https://miro.medium.com/max/691/1*VSQ0XEywxSgZBwW05GsZtw.png" align ="left" />
